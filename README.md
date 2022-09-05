@@ -1,5 +1,12 @@
 # TO-DO
 
+## Platform
+
+https://github.com/RobertoFreireFerrazPassos/Platform
+
+- Create simple Angular
+- User can customize a form (list of basic fields such as text and boolean)
+- User can attach javascript to it, so it can use the form information to run inside this javascript in the backend
 
 ## Observability
 
