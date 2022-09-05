@@ -13,7 +13,7 @@ https://github.com/RobertoFreireFerrazPassos/Observability
 
 https://github.com/RobertoFreireFerrazPassos/Design-Patterns
 
-- Finish read the book Book Head First Design Patterns: A Brain-Friendly Guid.
+- Finish read the book Head First Design Patterns: A Brain-Friendly Guid.
 - Continue from chapter 4. the Factory Pattern.
 
 ## dotNet-OOP
@@ -56,6 +56,26 @@ https://github.com/RobertoFreireFerrazPassos/Entity-Framework-Core
 - Use Linq
 - Create mock test for the repository
 - Create real data test in schooldb (Integration Test)
+- Resolve N + 1 issue
 
-N + 1 issue
-https://www.brentozar.com/archive/2018/07/common-entity-framework-problems-n-1/
+## Algorithms_Data_Structures
+
+https://github.com/RobertoFreireFerrazPassos/Algorithms_Data_Structures
+
+- Add more Algorithms examples
+- Add more Data Structures
+- Review and complete Tree example
+- For each Sort Algorithms, explain performance and Big O Notation
+
+## Clean-Code-and-Refactoring
+
+https://github.com/RobertoFreireFerrazPassos/Clean-Code-and-Refactoring
+
+- Reviee everything
+- Try to add more topics
+
+## Concurrent-and-Parallel-in-DotNet
+
+https://github.com/RobertoFreireFerrazPassos/Concurrent-and-Parallel-in-DotNet
+
+- Finish read the book Riccardo Terrell - Concurrency in .NET_ Modern patterns of concurrent and parallel programming-Manning (2018)
