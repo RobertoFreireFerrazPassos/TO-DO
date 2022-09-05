@@ -71,7 +71,7 @@ https://github.com/RobertoFreireFerrazPassos/Algorithms_Data_Structures
 
 https://github.com/RobertoFreireFerrazPassos/Clean-Code-and-Refactoring
 
-- Reviee everything
+- Review  everything
 - Try to add more topics
 
 ## Concurrent-and-Parallel-in-DotNet
