@@ -108,4 +108,5 @@ https://github.com/RobertoFreireFerrazPassos/Clean-Code-and-Refactoring
 
 https://github.com/RobertoFreireFerrazPassos/Concurrent-and-Parallel-in-DotNet
 
-- Finish read the book Riccardo Terrell - Concurrency in .NET_ Modern patterns of concurrent and parallel programming-Manning (2018)
+- Read Book Parallel Programming and Concurrency with C# 10 and .NET 6: A modern approach to building faster, more responsive, and asynchronous .NET applications using C#
+- Update project while reading the book
