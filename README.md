@@ -67,7 +67,7 @@ Auth
 Receipt implementation
 
 - Endpoint to calculate receipt from order events is not finished
-- It must add price collumn to inventory api
+- Use price property from inventory api
 - Review and update databse schema if necessary
 
 ## Entity-Framework-Core
