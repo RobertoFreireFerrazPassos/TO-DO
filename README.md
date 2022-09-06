@@ -41,11 +41,34 @@ https://github.com/RobertoFreireFerrazPassos/Security
 
 https://github.com/RobertoFreireFerrazPassos/EventSourcing-and-Cqrs
 
-- Implement Endpoint to calculate receipt from order events
+- "This project uses" readme topic, add docker and authentication via JWT and identity to list
 - Verify if it keeps order while sending and receiving events via rabbitmq. if not, it must implement to do so.
 - Try to improve the repositories. Search for: "// TO DO"
 - Fix bug: It is duplicating menu items in database
 - Implement logic to avoid duplicate events in receiptapi when the kitchen api cannot save in outbox table after sending event
+
+Docker
+
+- Set all backend apis to run inside docker
+
+Front End
+
+- Create simple Front End using Angular
+- Run project using docker
+- remove "Steps to test" readme topic since it won't be necessary anymore
+ 
+Auth
+
+- Create User Authentication Api to login and logout
+- Users will be set via migration
+- Return JWT Token so each user can access allowed api 
+- Add identity in each api
+
+Receipt implementation
+
+- Endpoint to calculate receipt from order events is not finished
+- It must add price collumn to inventory api
+- Review and update databse schema if necessary
 
 ## Entity-Framework-Core
 
