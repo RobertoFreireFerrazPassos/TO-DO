@@ -15,6 +15,15 @@ https://github.com/RobertoFreireFerrazPassos/Observability
 - Create UserApi and communicate with OrderApi via gRPC to get a user data. OrderApi will add this user data to the orderDto.
 - Pass the traceKey header via gRPC message to UserAPI be used as distributed trace log like all the others apis.
 - Understand and see how implement Circuit breaker or retry policy with Polly (https://makolyte.com/csharp-circuit-breaker-with-polly/)
+- remove any object type if possible to avoid boxing
+
+Serialization
+
+- Understand serialization: serializable, Datamember, dataContract using system.runtime.Serialization, Client with jsonconvert.deserializeObject from newtonsoft
+
+https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/concepts/serialization/
+
+https://docs.microsoft.com/pt-br/dotnet/api/system.serializableattribute?view=net-6.0
 
 ## Design-Patterns
 
