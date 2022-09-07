@@ -66,9 +66,9 @@ Front End
 - Run project using docker
 - remove "Steps to test" readme topic since it won't be necessary anymore
  
-Order agreggator API:
+Order aggregator API:
 
-- Add order agreggator API in restaurant project
+- Add Order aggregator API in restaurant project
 - It will comunicate with Inventory and Kitchen Api
 
 Auth
