@@ -68,6 +68,12 @@ Front End
  
 Order aggregator API:
 
+- Use GraphQL in .NET 6
+
+https://christian-schou.dk/how-to-implement-graphql-in-asp-net-core/
+
+https://dev.to/berviantoleo/getting-started-graphql-in-net-6-part-1-4ic2
+
 - Add Order aggregator API in restaurant project
 - It will comunicate with Inventory and Kitchen Api
 
