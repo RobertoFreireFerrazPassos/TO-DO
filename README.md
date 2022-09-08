@@ -1,5 +1,12 @@
 # TO-DO
 
+
+## .Net-Core-Api-Template
+
+https://github.com/RobertoFreireFerrazPassos/.Net-Core-Api-Template
+
+- Add mapster to convert objects
+
 ## Platform
 
 https://github.com/RobertoFreireFerrazPassos/Platform
