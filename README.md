@@ -7,6 +7,10 @@ https://github.com/RobertoFreireFerrazPassos/.Net-Core-Api-Template
 
 - Add mapster to convert objects
 
+- Read everything below and add new things to the project
+
+https://docs.microsoft.com/en-us/dotnet/architecture/microservices/
+
 ## Platform
 
 https://github.com/RobertoFreireFerrazPassos/Platform
