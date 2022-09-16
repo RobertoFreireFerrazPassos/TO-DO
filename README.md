@@ -51,6 +51,16 @@ https://github.com/RobertoFreireFerrazPassos/dotNet-OOP
 - Try to explain better.
 - Complete any pending topic.
 
+## Cryptography
+
+https://github.com/RobertoFreireFerrazPassos/Cryptography
+
+- Add topic in readme and code as well about digital signature.
+
+https://www.quora.com/Can-you-encrypt-with-a-private-key-and-decrypt-with-a-public-key
+
+https://security.stackexchange.com/questions/9957/can-i-use-a-private-key-as-a-public-key-and-vice-versa
+
 ## Security
 
 https://github.com/RobertoFreireFerrazPassos/Security
