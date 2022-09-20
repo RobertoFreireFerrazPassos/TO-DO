@@ -50,6 +50,7 @@ https://github.com/RobertoFreireFerrazPassos/dotNet-OOP
 - Review everything to fix any mistake. Do this by testing in visual studio.
 - Try to explain better.
 - Complete any pending topic.
+- Add more topics about asp.net mvc razor and entity framework
 
 ## Cryptography
 
